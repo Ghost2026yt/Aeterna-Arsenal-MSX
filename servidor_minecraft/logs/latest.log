@@ -3883,3 +3883,23 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [13Sep2025 17:25:37.570] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [13Sep2025 17:26:05.823] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [13Sep2025 17:26:06.337] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Sep2025 17:26:41.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Spectator Mode]
+[13Sep2025 17:26:44.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Creative Mode]
+[13Sep2025 17:30:43.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Gave 1 [Command Block] to MrGameBlaze]
+[13Sep2025 17:31:35.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrGameBlaze> -1296 11 -1305
+[13Sep2025 17:31:49.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Armero]
+[13Sep2025 17:32:04.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrGameBlaze has made the advancement [What a Deal!]
+[13Sep2025 17:32:06.260] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Sep2025 17:32:24.105] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armero'/88, l='ServerLevel[New World]', x=-1295.50, y=11.00, z=-1304.50] died, message: 'Armero was slain by MrGameBlaze'
+[13Sep2025 17:32:28.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Gave 1 [Command Block] to MrGameBlaze]
+[13Sep2025 17:32:40.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Spectator Mode]
+[13Sep2025 17:32:42.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Creative Mode]
+[13Sep2025 17:33:00.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Armero]
+[13Sep2025 17:35:14.661] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armero'/133, l='ServerLevel[New World]', x=-1295.50, y=11.00, z=-1305.50] died, message: 'Armero was slain by MrGameBlaze'
+[13Sep2025 17:35:19.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Armero]
+[13Sep2025 17:35:19.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Municionero]
+[13Sep2025 17:35:25.455] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Municionero'/135, l='ServerLevel[New World]', x=-1297.50, y=13.00, z=-1301.50] died, message: 'Municionero was slain by MrGameBlaze'
+[13Sep2025 17:35:40.611] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armero'/134, l='ServerLevel[New World]', x=-1295.50, y=11.00, z=-1305.50] died, message: 'Armero was slain by MrGameBlaze'
+[13Sep2025 17:35:42.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Armero]
+[13Sep2025 17:35:42.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Municionero]
+[13Sep2025 17:35:54.864] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
