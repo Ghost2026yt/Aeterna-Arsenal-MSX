@@ -4815,3 +4815,82 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [13Sep2025 17:35:54.864] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [13Sep2025 17:36:25.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145sztxivta9c]: started parsing
 [13Sep2025 17:36:25.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145sztxivta9c]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:29.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q5snfrzkgrvi]: started parsing
+[13Sep2025 17:36:29.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q5snfrzkgrvi]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:31.346] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[13Sep2025 17:36:31.352] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[13Sep2025 17:36:33.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07l1ep05an5tz]: started parsing
+[13Sep2025 17:36:33.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07l1ep05an5tz]: Consuming argument ``
+[13Sep2025 17:36:34.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p00pmxrbhbpe]: started parsing
+[13Sep2025 17:36:34.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p00pmxrbhbpe]: Consuming argument `9`
+[13Sep2025 17:36:34.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p00pmxrbhbpe]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:34.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yr8pxy3iqkg]: started parsing
+[13Sep2025 17:36:34.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yr8pxy3iqkg]: Consuming argument `90`
+[13Sep2025 17:36:34.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00yr8pxy3iqkg]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:34.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2vo71ut3k3q]: started parsing
+[13Sep2025 17:36:34.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2vo71ut3k3q]: Consuming argument `90`
+[13Sep2025 17:36:34.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z2vo71ut3k3q]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:45.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kvbi9tb0p79u]: started parsing
+[13Sep2025 17:36:45.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kvbi9tb0p79u]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:50.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dtf8xvsdnw9c]: started parsing
+[13Sep2025 17:36:50.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dtf8xvsdnw9c]: Consuming argument ``
+[13Sep2025 17:36:51.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0orm7l9t78kil]: started parsing
+[13Sep2025 17:36:51.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0orm7l9t78kil]: Consuming argument `9`
+[13Sep2025 17:36:51.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0orm7l9t78kil]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:51.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nwvygt8xoiw]: started parsing
+[13Sep2025 17:36:51.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nwvygt8xoiw]: Consuming argument `90`
+[13Sep2025 17:36:51.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nwvygt8xoiw]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:51.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l5qsjlwmlug5]: started parsing
+[13Sep2025 17:36:51.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l5qsjlwmlug5]: Consuming argument `90`
+[13Sep2025 17:36:51.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l5qsjlwmlug5]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:52.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vt0mnzchj4yi]: started parsing
+[13Sep2025 17:36:52.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vt0mnzchj4yi]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:56.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oww43rbk2tj1]: started parsing
+[13Sep2025 17:36:56.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oww43rbk2tj1]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:58.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr4q7xhup66p]: started parsing
+[13Sep2025 17:36:58.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr4q7xhup66p]: Consuming argument `90`
+[13Sep2025 17:36:58.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr4q7xhup66p]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:58.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7x0zgzh4q61]: started parsing
+[13Sep2025 17:36:58.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7x0zgzh4q61]: Consuming argument `90`
+[13Sep2025 17:36:58.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7x0zgzh4q61]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:58.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvkv204dld6r]: started parsing
+[13Sep2025 17:36:58.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvkv204dld6r]: Consuming argument `90`
+[13Sep2025 17:36:58.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvkv204dld6r]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:58.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m2m3er97pyo]: started parsing
+[13Sep2025 17:36:58.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m2m3er97pyo]: Consuming argument `90`
+[13Sep2025 17:36:58.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01m2m3er97pyo]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:58.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a3rlqf09hrk4]: started parsing
+[13Sep2025 17:36:58.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a3rlqf09hrk4]: Consuming argument `90`
+[13Sep2025 17:36:58.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a3rlqf09hrk4]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:36:59.820] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0buy99e0og9go]: started parsing
+[13Sep2025 17:36:59.820] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0buy99e0og9go]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:37:16.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0su2933yrcx9q]: started parsing
+[13Sep2025 17:37:16.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0su2933yrcx9q]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:37:22.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqj9kb4x913l]: started parsing
+[13Sep2025 17:37:22.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqj9kb4x913l]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:37:23.981] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ghost2026yT moved too quickly! 0.0,-10.44744858041658,0.0
+[13Sep2025 17:37:29.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [034kr3i9wol62]: started parsing
+[13Sep2025 17:37:29.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [034kr3i9wol62]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:37:31.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvdm2dhqx0y7]: started parsing
+[13Sep2025 17:37:31.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvdm2dhqx0y7]: Finished looking at arguments. Finalizing command.
+[13Sep2025 17:39:46.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Created new objective [genOro]]
+[13Sep2025 17:39:52.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Created new objective [genEsmeralda]]
+[13Sep2025 17:40:40.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new GeneradorOro]
+[13Sep2025 17:40:45.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new GeneradorOro]
+[13Sep2025 17:40:46.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Spectator Mode]
+[13Sep2025 17:40:49.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set own game mode to Creative Mode]
+[13Sep2025 17:40:57.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrGameBlaze> scoreboard players set @e[tag=genOro,scores={genOro=0}] genOro 200
+[13Sep2025 17:41:20.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set [genOro] for 34269d3c-33b0-4500-9193-7dedd63f560c to 200]
+[13Sep2025 17:41:31.500] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[13Sep2025 17:41:31.502] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[13Sep2025 17:41:52.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new GeneradorEsmeralda]
+[13Sep2025 17:41:56.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Set [genEsmeralda] for 245522ba-4c57-4db8-952a-1781892be23e to 400]
+[13Sep2025 17:42:02.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Teleported MrGameBlaze to 5.5, 255.0, 5.5]
+[13Sep2025 17:43:48.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Teleported MrGameBlaze to Ghost2026yT]
+[13Sep2025 17:44:23.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 hierro cada 1s]
+[13Sep2025 17:45:07.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 hierro cada 1s]
+[13Sep2025 17:45:28.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 oro cada 8s]
+[13Sep2025 17:45:41.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 oro cada 8s]
+[13Sep2025 17:45:46.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 oro cada 8s]
+[13Sep2025 17:46:01.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Summoned new Genera 1 esmeralda cada 15s]
+[13Sep2025 17:46:08.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrGameBlaze: Teleported MrGameBlaze to 5.5, 255.0, 5.5]
